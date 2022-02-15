@@ -1,0 +1,8 @@
+#SQL
+enabled: false
+#Credetials
+host: "your_host"
+port: 3306 # Default 3306
+username: "your_username"
+password: "your_password"
+database: "your_database"

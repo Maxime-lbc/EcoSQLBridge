@@ -1,0 +1,7 @@
+name: EcoSQLBridge
+version: '${project.version}'
+main: fr.lebonniec.maxime.ecosqlbridge.EcoSQLBridge
+api-version: 1.16
+prefix: [ EcoSQLBridge ]
+author: Maxime LE BONNIEC
+description: This plugin make a link between many server using Vault through SQL database
